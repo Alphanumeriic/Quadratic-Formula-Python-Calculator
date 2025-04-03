@@ -1,4 +1,4 @@
-print("Quadratic Formula Calc: Created by Ysf")
+print("Quadratic Formula Calc: Created by Ysf Ala.")
 print(" ")
 
 print("For complex quadratics j is the same term as i")
